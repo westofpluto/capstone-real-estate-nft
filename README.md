@@ -21,12 +21,12 @@ The deployed contracts on the Rinkeby network have the following hashes and addr
 SolnSquareVerifier:
 
 * Contract Address: 0x3735BafeCDBA461e1452333E7ec5ce9b672F3b06
-* * Transaction Hash: 0xd1bde8bd4807377b4bf1a00591d27c6ce43949810d08100bf15792c6ac95e397
+* Transaction Hash: 0xd1bde8bd4807377b4bf1a00591d27c6ce43949810d08100bf15792c6ac95e397
 
 Verifier:
 
 * Contract Address: 0x442869de673753A3209f65151f989aAAbE509793
-* 0x3f41d98ff56dbd20a59c17818a22292fdc241dbf687cb458930137fb6184977f
+* Transaction Hash: 0x3f41d98ff56dbd20a59c17818a22292fdc241dbf687cb458930137fb6184977f
 
 Contract ABI's can be found inside the JSON files SolnSquareVerifier.json and Verifier.json in eth-contracts/build/contracts.
 

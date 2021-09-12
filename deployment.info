@@ -1,0 +1,43 @@
+   Deploying 'Verifier'
+   --------------------
+   > transaction hash:    0x3f41d98ff56dbd20a59c17818a22292fdc241dbf687cb458930137fb6184977f
+   > Blocks: 1            Seconds: 12
+   > contract address:    0x442869de673753A3209f65151f989aAAbE509793
+   > block number:        9277237
+   > block timestamp:     1631413201
+   > account:             0x19F138B7f1b2dFf20aB30ADa6bE2Db92d09B5c96
+   > balance:             18.511319469
+   > gas used:            815545 (0xc71b9)
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00815545 ETH
+
+
+   Deploying 'SolnSquareVerifier'
+   ------------------------------
+   > transaction hash:    0xd1bde8bd4807377b4bf1a00591d27c6ce43949810d08100bf15792c6ac95e397
+   > Blocks: 1            Seconds: 12
+   > contract address:    0x3735BafeCDBA461e1452333E7ec5ce9b672F3b06
+   > block number:        9277238
+   > block timestamp:     1631413216
+   > account:             0x19F138B7f1b2dFf20aB30ADa6bE2Db92d09B5c96
+   > balance:             18.480584329
+   > gas used:            3073514 (0x2ee5ea)
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.03073514 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.03889059 ETH
+
+
+Summary
+=======
+> Total deployments:   3
+> Final cost:          0.04087022 ETH
+
+
+Opensea storefront URL: https://testnets.opensea.io/collection/unidentified-contract-izslpeffes
